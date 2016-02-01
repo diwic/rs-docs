@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["inner!","The `inner!` macro - see module level documentation for details."],["ok!","Converts your enum to an Result."],["some!","Converts your enum to an Option."]],"trait":[["IntoResult","Converts a value into a Result. You can implement this for your own types if you want to use the `inner!` macro in more ergonomic ways."]]});

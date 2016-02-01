@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ECMap","Entity-Component map, implemented as a double HashMap (first over component, then over entity)."],["Iter","Iterator struct returned by ECMap::iter_with()."],["IterMut","Iterator struct returned by ECMap::iter_mut_with()."]]});
