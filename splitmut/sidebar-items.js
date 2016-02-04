@@ -1,1 +1,1 @@
-initSidebarItems({"trait":[["SplitMut","Just add `use splitmut::SplitMut;` to have these methods working on mutable slices, Vec, VecDeque, HashMap and BTreeMap."]]});
+initSidebarItems({"enum":[["SplitMutError","Error returned from get*_mut functions."]],"trait":[["SplitMut","Just add `use splitmut::SplitMut;` to have these methods working on mutable slices, Vec, VecDeque, HashMap and BTreeMap."]]});
